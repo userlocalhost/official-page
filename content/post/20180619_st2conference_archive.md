@@ -5,6 +5,7 @@ tags:
   - 勉強会
 author: Hiroyasu OHYAMA
 author_picture_url: https://github.com/userlocalhost.png
+no_thumbnail: True
 ---
 
 先月ご紹介した [第四回 StackStorm 勉強会](https://stackstorm.jp/post/20180530_st2conference_report/) のアーカイブ動画が公開されました。
