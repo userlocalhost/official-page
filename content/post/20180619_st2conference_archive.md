@@ -5,11 +5,14 @@ tags:
   - 勉強会
 author: Hiroyasu OHYAMA
 author_picture_url: https://github.com/userlocalhost.png
+picture_url: https://raw.githubusercontent.com/userlocalhost/official-page/master/static/img/20180619-ss-01.png
 ---
 
-先月開催された [第四回 StackStorm 勉強会](https://stackstorm.jp/post/20180530_st2conference_report/) のアーカイブ動画が公開されました。
+先月ご紹介した [第四回 StackStorm 勉強会](https://stackstorm.jp/post/20180530_st2conference_report/) のアーカイブ動画が公開されました。
 
-* [https://www.youtube.com/playlist?list=PLdBkIB6kvdfBg-UfLxxx-CX0Kpyn5gZ-F](https://www.youtube.com/playlist?list=PLdBkIB6kvdfBg-UfLxxx-CX0Kpyn5gZ-F)
+<a href='https://www.youtube.com/playlist?list=PLdBkIB6kvdfBg-UfLxxx-CX0Kpyn5gZ-F'><img src='https://raw.githubusercontent.com/userlocalhost/official-page/master/static/img/20180619-ss-01.png' style='width: 80%;'></src></a>
+
+<font color='#999999'>(出典：[Extreme Networks Japan チャンネル - YouTube](https://www.youtube.com/playlist?list=PLdBkIB6kvdfBg-UfLxxx-CX0Kpyn5gZ-F))</font>
 
 各社が何のために StackStorm を利用し、どのように運用されているかのエッセンスが詰まっており、\\
-運用の自動化を検討・実践されている方にとって価値ある内容だと思います。
+運用の自動化を検討・実践されている方にとって価値ある内容だと思いますので、ぜひご覧ください！
