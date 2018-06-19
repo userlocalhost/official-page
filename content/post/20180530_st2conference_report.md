@@ -1,6 +1,6 @@
 ---
 title: "第四回 StackStorm 勉強会レポート"
-date: 2018-05-30T17:56:18+09:00
+date: 2018-06-01T10:30:18+09:00
 tags:
   - 勉強会
 author: Hiroyasu OHYAMA
@@ -37,6 +37,8 @@ Action の実装方法について詳しく解説いただきました。詳し�
 **(森 正樹 / ソフトバンク株式会社 IT本部 ネットワーク統括部 ネットワーク部 ネットワーク運用課)**
 
 社内の情報システム部門が通常行っている PC の紛失に伴う VPN 証明書の失効処理を IFTTT 化させることで、それまで平日/日中対応だった紛失対応を 24-365 で自動対応化でき、運用コストが低減しセキュリティレベルが向上したというお話をしていただきました。
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/9wmG9XkABantyG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MasakiMori6/3st224" title="3万台のリスクから会社を守るST2で24時間リモートワイプ" target="_blank">3万台のリスクから会社を守るST2で24時間リモートワイプ</a> </strong> from <strong><a href="https://www.slideshare.net/MasakiMori6" target="_blank">Masaki Mori</a></strong> </div>
 
 ---
 ### NW機器・サーバ機器の設定自働化に向けたst2機能の活用案
