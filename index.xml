@@ -1,0 +1,420 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日本 StackStorm ユーザ会 / StackStorm User Group, Japan on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</title>
+    <link>https://stackstorm.jp/</link>
+    <description>Recent content in 日本 StackStorm ユーザ会 / StackStorm User Group, Japan on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Dec 2019 11:51:42 +0900</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+      
+        
+          <item>
+            <title>StackStorm Meetup JP #8(@MF) レポート</title>
+            <link>https://stackstorm.jp/post/20191226_meetup8/</link>
+            <pubDate>Sat, 28 Dec 2019 11:51:42 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/post/20191226_meetup8/</guid>
+            <description>&lt;p&gt;　2019/12/26(木) に &lt;a href=&#34;https://www.mfeed.ad.jp/&#34;&gt;インターネットマルチフィード株式会社&lt;/a&gt; さまのご協力のもと、&lt;a href=&#34;https://stackstorm-jp.connpass.com/event/159554/&#34;&gt;StackStorm Meetup JP#8&lt;/a&gt; が実施できました。会場を提供くださいましたインターネットマルチヂードさま、運営にご協力くださいましたインターネットマルチフィード技術部の皆さま、そしてご来場くださったユーザの方々に感謝申し上げます。&lt;/p&gt;
+
+&lt;p&gt;　半年ぶりの開催で、イベントページの告知も開催 10 日前という状況にも関わらず、多数のユーザが集まり大変驚きました。&lt;br /&gt;
+　参加されたユーザの多くが StackStorm を最近使い始めたという方々で「Infrastructure as Code や運用自動化を実現するための手法として興味を持って来た」といったお話をされていました。また以前から StackStorm を使っているユーザの参加者同士で、開発や運用の困りどころについて相談し、その場で解決方法を教え合うといった事も行われ、有意義なイベントになったのではないかと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/stackstorm-japan/stackstorm.jp/blob/master/static/img/20191226_meetup8_content.png?raw=true&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;　今回は StackStorm ユーザ会では初めて、もくもく会 &lt;span style=&#39;color: gray;&#39;&gt;（参加者が登壇者の発表内容を聞くという形式ではなく、参加者が各々の StackStorm に関する課題を持ち込み、もくもくと作業し適宜周りのユーザに尋ねたり、教えあったりする）&lt;/span&gt; 形式で Meetup イベントを開催しました。参加したユーザは「&lt;a href=&#34;https://docs.stackstorm.com/orquesta/index.html&#34;&gt;Orquesta&lt;/a&gt; を初めてさわってみる」や「&lt;a href=&#34;https://docs.stackstorm.com/reference/runners.html#python-runner-python-script&#34;&gt;Python Runner&lt;/a&gt; のアクションのテストを書く」などといった課題について取り組み、適宜ユーザ同士での質問・回答が行われ、また回答に対する補足を別のユーザがするといった光景も見られました。&lt;/p&gt;
+
+&lt;p&gt;　また今回のイベントでは、初めて StackStorm を触る人向けのハンズオンも実施しましたが、時間の関係で十分な内容ではなかった為、ここで少しだけ補足させてください。&lt;/p&gt;
+
+&lt;p&gt;　&lt;a href=&#34;https://www.nic.ad.jp/&#34;&gt;JPNIC&lt;/a&gt; が毎年開催されている Internet Week において以前、&lt;a href=&#34;https://www.nic.ad.jp/iw2017/program/h3/&#34;&gt;StackStorm 初心者向けのハンズオン&lt;/a&gt; というセッションを実施致しました。当日使用した資料は &lt;a href=&#34;https://github.com/internetweek2017-st2/handson_documents/tree/master/slide&#34;&gt;GitHub から閲覧&lt;/a&gt; でき、またハンズオン資料に記載されている実行環境を構築する方法も &lt;a href=&#34;https://github.com/internetweek2017-st2/handson_documents#vagrant-%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E6%96%B9%E6%B3%95%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6&#34;&gt;同リポジトリの README&lt;/a&gt; にまとめてありますので、ぜひご活用ください。&lt;/p&gt;
+
+&lt;p&gt;　またユーザ会からの連絡や、ユーザ会に相談したいこと、他のユーザに聞きたいことなどございましたら &lt;a href=&#34;https://stackstorm.com/#community&#34;&gt;Slack にログイン&lt;/a&gt; いただき、#community-japan チャンネルでご連絡ください。&lt;/p&gt;
+
+&lt;p&gt;　次回の Meetup は 2020/02/10(月) に実施を予定しておりますので、ぜひご参加ください！&lt;br /&gt;
+　開催場所などの詳細は、&lt;a href=&#34;https://stackstorm-jp.connpass.com/&#34;&gt;compass の StackStorm ユーザ会のグループ&lt;/a&gt; でご連絡致します。&lt;/p&gt;
+</description>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>StackStorm Meetup JP #7(@WeWork銀座) レポート</title>
+            <link>https://stackstorm.jp/post/20190627_meetup_jp_7/</link>
+            <pubDate>Wed, 03 Jul 2019 11:51:42 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/post/20190627_meetup_jp_7/</guid>
+            <description>
+
+&lt;p&gt;　ソフトバンクさまのご協力により &lt;a href=&#34;https://stackstorm-jp.connpass.com/event/125944/&#34;&gt;StackStorm Meetup JP #7&lt;/a&gt; を &lt;a href=&#34;https://www.wework.com/ja-JP/buildings/ginza-six--tokyo&#34;&gt;WeWork GINZA SIX&lt;/a&gt; にて開催致しました。ご来場いただいた皆さま、ご登壇くださった StackStormer の方々、そしてご支援・ご協力くださいました Extreme Networks K.K. の佐野さん、ソフトバンク株式会社の小島さんをはじめ、関係者の皆さまに感謝申し上げます。&lt;/p&gt;
+
+&lt;p&gt;　以下では、当日ご登壇いただいた皆さまの発表を資料と共にご紹介致します。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;st2-コミュニティアップデート&#34;&gt;ST2 コミュニティアップデート&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(Extreme Networks, Inc. / Lindsay Hill)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;　先月の &lt;a href=&#34;https://stackstorm.com/2019/06/06/dmitri-says-good-bye/&#34;&gt;StackStorm 公式ブログのエントリ- Dmitri says “good bye”&lt;/a&gt; にて公表された、StackStorm を &lt;a href=&#34;https://www.linuxfoundation.org/&#34;&gt;Linux Foundation&lt;/a&gt; に移管する件について、何がどのように変わるのかについて説明してくれています。この他に各 GNU/Linux ディストリビューションのサポートと、StackStorm のロードマップについてお話しいただきました。&lt;br /&gt;
+　Lindsay の発表は諸事情により動画での発表だったため YouTube にアップロードされていますので是非ご覧ください。&lt;/p&gt;
+
+&lt;iframe width=&#34;640&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/kv_7e5z_UFU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;stackstormを使ったサポート業務の自動化の紹介&#34;&gt;StackStormを使ったサポート業務の自動化の紹介&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(日商エレクトロニクス株式会社 / 管野 智祥)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;　ご登壇いただいた菅野さんは以前より、&lt;a href=&#34;https://www.slideshare.net/DX-NisshoElectronics/20180720-new-relicseminarsession1&#34;&gt;New Relic や StackStorm などを活用した SRE&lt;/a&gt; に取り組まれており、この日はカスタマーサポート業務において StackStorm をどのように活用されているかついてお話しいただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#39;color: grey;&#39;&gt;(資料がアップロードされ次第、更新致します)&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;stackstormを1年間データ基盤で使ってみてぶつかったトラブルとその解決策の共有&#34;&gt;StackStormを1年間データ基盤で使ってみてぶつかったトラブルとその解決策の共有&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(株式会社リクルートテクノロジーズ / 佐伯 嘉康)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;　昨年の &lt;a href=&#34;https://techsio.connpass.com/event/83273/&#34;&gt;Tech Night @Shiodome #8&lt;/a&gt; で発表された、&lt;a href=&#34;https://www.slideshare.net/laclefyoshi/stackstorm-99437154?ref=https://stackstorm.jp/post/20180530_st2conference_report/&#34;&gt;データ民主化のプラットフォーム&lt;/a&gt; を運用されて得られた StackStorm の運用ナレッジについてお話し頂きました。具体的には、1年以上の StackStorm の運用を通じて踏まれてきた様々なトラブル、及びトラブルの原因と回避策について、&lt;a href=&#34;https://docs.stackstorm.com/troubleshooting/index.html&#34;&gt;公式ドキュメントの Troubleshooting&lt;/a&gt; にも載っていないものまでお話しいただき、ワークロードが多い環境で長期間運用されて得られた運用ナレッジが詰まった内容でした。&lt;br /&gt;
+　なお、好評だった Tech Night @Shiodome #8 の発表も &lt;a href=&#34;https://www.youtube.com/playlist?list=PLdBkIB6kvdfBg-UfLxxx-CX0Kpyn5gZ-F&#34;&gt;Extreme Networks Japan さんの YouTube チャンネル&lt;/a&gt; から視ることができます。&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/3b2qz67rIe5gS7&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/laclefyoshi/stackstorm1&#34; title=&#34;StackStormを1年間データ基盤で使ってみてぶつかったトラブルとその解決策の共有&#34; target=&#34;_blank&#34;&gt;StackStormを1年間データ基盤で使ってみてぶつかったトラブルとその解決策の共有&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;//www.slideshare.net/laclefyoshi&#34; target=&#34;_blank&#34;&gt;Yoshiyasu SAEKI&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;dmm-com-における-stackstorm-活用方法と-st2-v3-0-新機能の活用&#34;&gt;DMM.com における StackStorm 活用方法と ST2 v3.0 新機能の活用&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(合同会社 DMM.com / 大山 裕泰)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;　多数のユーザが多数のサービスと連携した StackStorm を使う際、権限の分離が課題となりますが、StackStorm v3.0 から入った &lt;a href=&#34;https://docs.stackstorm.com/changelog.html#april-18-2019&#34;&gt;新機能 (&lt;span style=&#39;color: grey;&#39;&gt;ユーザスコープのデータストアの値を透過的に扱える機能&lt;/span&gt;)&lt;/a&gt; によって、StackStorm には実装されていない &lt;a href=&#34;https://docs.stackstorm.com/rbac.html&#34;&gt;RBAC 機能&lt;/a&gt; を使わずに、pack 毎のアクセスのアカウントを透過的に切り替えられるという話をしました。多数のユーザが利用さえる環境において、Automation Pack を書く方向けの内容です。&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/C2ow8pL8vyL0tj&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/Hiroyasu-OHYAMA/stackstorm-meetup-jp-7&#34; title=&#34;StackStorm Meetup JP #7 発表資料&#34; target=&#34;_blank&#34;&gt;StackStorm Meetup JP #7 発表資料&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/Hiroyasu-OHYAMA&#34; target=&#34;_blank&#34;&gt;Ohyama Hiroyasu&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;official-k8s-helm-chart-stackstorm-ha-使ってみた-α&#34;&gt;Official k8s helm chart:stackstorm-ha 使ってみた +α&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(インターネットマルチフィード株式会社 / 杉本 周)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;　HA (High Available) な StackStorm 環境を Kubenetes で構築する StackStorm 公式プロジェクト &lt;a href=&#34;https://github.com/StackStorm/stackstorm-ha&#34;&gt;stackstorm-ha&lt;/a&gt; を実際に使ってみて、発表時点のもの (Beta 版) でどこまで出来て、何が課題かについて詳しく解説してくれました。この方の StackStorm 自体の運用を頑張らないという点における頑張りは StackStorm ユーザの中でも随一だと思います。Docker, Kubenetes を活用した StackStorm の構築・運用について関心がある方は、次回以降の StackStorm Meetup JP で声を掛けてみると良いと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&#39;color: grey;&#39;&gt;(資料がアップロードされ次第、更新致します)&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;おわりに&#34;&gt;おわりに&lt;/h4&gt;
+
+&lt;p&gt;　最後まで読んでくださりありがとうございます。&lt;/p&gt;
+
+&lt;p&gt;　裏話になりますが、イベントの計画・準備段階では「ST2 Meetup JP#7 (本イベント) は初心者も楽しめるようなイベントにしよう」と関係者一同で話し合い『初心者歓迎』と銘を打ちましたが、いざ蓋を開けてみるとテクニカルな内容が盛りだくさんで、初心者が置いてきぼりにならないか若干ヒヤヒヤしましたが、ご登壇いただいた皆さまそれぞれがとても濃い内容のお話しをしてくださり、お陰様で大変有意義なイベントになったと思います。&lt;br /&gt;
+　ただ、ご参加いただいた方々のスキルや興味がある分野、そしてイベントの感想などの貴重なフィードバックを取り損なったのが最大の反省ポイントでした。こちら、次回以降のイベントで活かしたいと思います。&lt;/p&gt;
+
+&lt;p&gt;　次回 (Meetup JP#8) はもくもく会の予定です。ご都合が合いましたら、是非お気軽にご参加ください (詳細は追ってお知らせします)。&lt;/p&gt;
+</description>
+          </item>
+        
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>StackStorm Meetup JP #5 レポート</title>
+            <link>https://stackstorm.jp/post/20190424_meetup_jp_5/</link>
+            <pubDate>Tue, 07 May 2019 11:51:42 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/post/20190424_meetup_jp_5/</guid>
+            <description>
+
+&lt;p&gt;DMM.com にて &lt;a href=&#34;https://stackstorm-jp.connpass.com/event/125804/&#34;&gt;StackStorm Meetup JP #5&lt;/a&gt; を開催しました。多数の StackStorm 実務者にご参加頂き、大変ありがとうございました。&lt;/p&gt;
+
+&lt;p&gt;当日は後述の登壇者による発表のほか、StackStorm を運用・活用されているユーザ同士がお互いに、どのような環境で、どのように StackStorm を使っているかといったお話や、気になる StackStorm のトピック、ナレッジを積極的に共有し合うなど、非常に充実した内容でした。&lt;/p&gt;
+
+&lt;p&gt;以下、当日ご登壇いただいた方々の発表をご紹介します。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;詳解-stackstorm-1-pack-のテストの書き方&#34;&gt;詳解 StackStorm ~ #1 Pack のテストの書き方&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(大山 裕泰 / 合同会社DMM.com ITインフラ本部)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://exchange.stackstorm.org/&#34;&gt;StackStorm Exchange&lt;/a&gt; の pack の機能改修・バグ修正を行った際、変更を &lt;a href=&#34;https://github.com/StackStorm-Exchange&#34;&gt;Exchange のリポジトリ&lt;/a&gt; に反映させることはコミュニティ・変更者相互にメリットがあります&lt;span style=&#39;color: grey;&#39;&gt;（コミュニティ側は pack の機能・品質が向上し、変更者側は変更したコードのメンテナンスをコミュニティに任せられるため）&lt;/span&gt;。&lt;/p&gt;
+
+&lt;p&gt;ここでは Exchange pack の変更 PR を作成した際に要求される、テストの概要、実行方法そして書き方について解説しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/GutafwgHuQesuR&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;st2-workflowの設計ポリシー&#34;&gt;st2 Workflowの設計ポリシー&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(杉本 周 / インターネットマルチフィード株式会社 技術部)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mfeed.co.jp/service/jpnap.html&#34;&gt;日本最大級の商用 IX サービス (JPNAP)&lt;/a&gt; の運用を StackStorm で効率化されてきた経験を基に、StackStorm で業務手順をコード化する際に頭を悩ませる様々なトピック&lt;span style=&#39;color: grey;&#39;&gt;（pack 管理の粒度、設定・インベントリ情報の管理、Workflow の記述方法）&lt;/span&gt;について、StackStorm の機能を最大限活用したガイドラインを紹介していただきました。&lt;/p&gt;
+
+&lt;p&gt;複数のシステムに跨る作業手順を StackStorm の Workflow で記述する際に、とても参考になるエッセンスが詰まっています。&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/rnXMZuh17RW7Sz&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/shusugimoto1986/stackstorm-workflow&#34; title=&#34;StackStorm Workflowの設計&#34; target=&#34;_blank&#34;&gt;StackStorm Workflowの設計&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/shusugimoto1986&#34; target=&#34;_blank&#34;&gt;Shu Sugimoto&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;lt-stackstormによるcloudslang対応とはなにだったのか&#34;&gt;LT: StackStormによるCloudSlang対応とはなにだったのか&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(S.Komichevsen Matsu &lt;a href=&#34;https://twitter.com/w4yh&#34;&gt;@w4yh&lt;/a&gt;)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;StackStorm を最初期 (v0.3) から触ってきたベテラン StackStormer による、古く (StackStorm v0.12) から対応されてきた HPE 製ワークフローエンジン &lt;a href=&#34;https://cloudslang.io/&#34;&gt;CloudSlang&lt;/a&gt; に込めた情熱と悲哀のお話です。面白かったです。&lt;/p&gt;
+
+&lt;div style=&#34;left: 0; width: 65%; height: 0; position: relative; padding-bottom: 70.5617%;&#34;&gt;&lt;iframe src=&#34;//speakerdeck.com/player/8dbc8c8429924be2b49ba60b32270a60&#34; style=&#34;border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;&#34; allowfullscreen scrolling=&#34;no&#34; allow=&#34;autoplay; encrypted-media&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;次回 StackStorm #6 も乞うご期待。&lt;/p&gt;
+</description>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>「StackStormを活用した運用自動化の実践」セミナー開催のお知らせ</title>
+            <link>https://stackstorm.jp/post/20190319_inform_an_event/</link>
+            <pubDate>Thu, 14 Mar 2019 10:45:44 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/post/20190319_inform_an_event/</guid>
+            <description>
+
+&lt;p&gt;2019/03/19 飯田橋 IIJ-II にて、インターネットマルチフィード株式会社の杉本周氏による&lt;a href=&#34;https://iijlab-seminars.connpass.com/event/124111/&#34;&gt;「StackStormを活用した運用自動化の実践」セミナー&lt;/a&gt; が開催されます。&lt;/p&gt;
+
+&lt;p&gt;講演者の杉本氏は、黎明期から StackStorm を活用した運用効率化に取り組んでおり、&lt;a href=&#34;https://stackstorm.jp/post/20180619_st2conference_archive/&#34;&gt;st2-docker など活用した運用&lt;/a&gt; など新しいトレンドを活用した運用に長けた、国内有数の StackStorm のエキスパートとして知られています。&lt;/p&gt;
+
+&lt;p&gt;今回のセミナーでは、&lt;a href=&#34;http://www.mfeed.co.jp/service/jpnap.html&#34;&gt;日本最大級の商用 IX サービス (JPNAP)&lt;/a&gt; の運用において、比較的最近リリースされた StackStorm の新機能 &lt;a href=&#34;https://docs.stackstorm.com/inquiries.html&#34;&gt;&amp;ldquo;Inquiries&amp;rdquo;&lt;/a&gt; (&lt;font color=&#34;Gray&#34;&gt;従来予め規定された通りの処理を行うワークフローの処理を、状況に応じて動的に処理を変更させられる機能&lt;/font&gt;) などを活用した運用自動化の実例をご紹介いただきます。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;実施詳細&#34;&gt;実施詳細&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;日時：2019年3月19日18:00 (17:45 開場予定、19:30頃終了予定)&lt;/li&gt;
+&lt;li&gt;場所：東京都千代田区富士見2-10-2 (&lt;a href=&#34;https://www.iij.ad.jp/company/about/map/head-office.html&#34;&gt;株式会社インターネットイニシアティブ 13階 Opera2&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;参加費：無料&lt;/li&gt;
+&lt;li&gt;詳細・参加申し込み：&lt;a href=&#34;https://iijlab-seminars.connpass.com/event/124111/&#34;&gt;https://iijlab-seminars.connpass.com/event/124111/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>第四回 StackStorm 勉強会セッション動画公開</title>
+            <link>https://stackstorm.jp/post/20180619_st2conference_archive/</link>
+            <pubDate>Tue, 19 Jun 2018 10:44:23 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/post/20180619_st2conference_archive/</guid>
+            <description>&lt;p&gt;先月ご紹介した &lt;a href=&#34;https://stackstorm.jp/post/20180530_st2conference_report/&#34;&gt;第四回 StackStorm 勉強会&lt;/a&gt; のセッション動画が公開されました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#39;https://www.youtube.com/playlist?list=PLdBkIB6kvdfBg-UfLxxx-CX0Kpyn5gZ-F&#39;&gt;&lt;img src=&#39;https://github.com/stackstorm-japan/stackstorm.jp/blob/master/static/img/20180619-ss-01.png?raw=true&#39; style=&#39;width: 80%;&#39;&gt;&lt;/src&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font color=&#39;#999999&#39;&gt;(出典：&lt;a href=&#34;https://www.youtube.com/playlist?list=PLdBkIB6kvdfBg-UfLxxx-CX0Kpyn5gZ-F&#34;&gt;Extreme Networks Japan チャンネル - YouTube&lt;/a&gt;)&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;各社が何のために StackStorm を利用し、どのように運用されているかのエッセンスが詰まっており、&lt;br /&gt;
+運用の自動化を検討・実践されている方にとって価値ある内容だと思いますので、ぜひご覧ください！&lt;/p&gt;
+</description>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>第四回 StackStorm 勉強会レポート</title>
+            <link>https://stackstorm.jp/post/20180530_st2conference_report/</link>
+            <pubDate>Fri, 01 Jun 2018 10:30:18 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/post/20180530_st2conference_report/</guid>
+            <description>
+
+&lt;p&gt;ソフトバンクさま主催の &lt;a href=&#34;https://techsio.connpass.com/event/83273/&#34;&gt;TechNight @Shiodome&lt;/a&gt; にて、第四回 StackStorm 勉強会を開催していただきました。&lt;/p&gt;
+
+&lt;p&gt;多数のご来場いただきありがとうございました。&lt;br /&gt;
+また大変興味深い発表をしてくださった発表者の皆さま、会場をご提供くださいましたソフトバンクさま、差し入れをくださいました Extreme Networks さまに改めて感謝申し上げます。&lt;/p&gt;
+
+&lt;p&gt;以下、それぞれの発表者（敬称略）の資料とサマリになります。各セッションの内容については &lt;a href=&#34;http://w4yh.hatenablog.com/entry/2018/06/01/043757&#34;&gt;@w4yh さんのレポート記事&lt;/a&gt; が詳しいので併せてご覧ください。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;明日からできる-st2のactionの作り方&#34;&gt;明日からできる、st2のActionの作り方&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(萬治 渉 / NTTテクノクロス株式会社 IoTイノベーション事業部)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Action の実装方法について詳しく解説いただきました。詳しくは資料をご参照ください。&lt;/p&gt;
+
+&lt;div style=&#39;width: 595px;&#39;&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=&#34;3eb199555a30443fbf7321c96f847aab&#34; data-ratio=&#34;1.77777777777778&#34; src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;データの民主化のためにstackstormを活用した事例&#34;&gt;データの民主化のためにStackStormを活用した事例&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(佐伯 嘉康 / リクルートテクノロジーズ)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;社内の様々な部署で蓄積されたデータを共有の場所に蓄積し、共通の方法で自由に取得できるようにするプラットフォームを作ったという事例についてご紹介いただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/fTvb1ChqjDRQWz&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/laclefyoshi/stackstorm-99437154&#34; title=&#34;データの民主化のために StackStorm を活用した事例&#34; target=&#34;_blank&#34;&gt;データの民主化のために StackStorm を活用した事例&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/laclefyoshi&#34; target=&#34;_blank&#34;&gt;Yoshiyasu SAEKI&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;3万台のリスクから会社を守る-st2で24時間リモートワイプ&#34;&gt;3万台のリスクから会社を守る。st2で24時間リモートワイプ&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(森 正樹 / ソフトバンク株式会社 IT本部 ネットワーク統括部 ネットワーク部 ネットワーク運用課)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;社内の情報システム部門が通常行っている PC の紛失に伴う VPN 証明書の失効処理を IFTTT 化させることで、それまで平日/日中対応だった紛失対応を 24-365 で自動対応化でき、運用コストが低減しセキュリティレベルが向上したというお話をしていただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/9wmG9XkABantyG&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/MasakiMori6/3st224&#34; title=&#34;3万台のリスクから会社を守るST2で24時間リモートワイプ&#34; target=&#34;_blank&#34;&gt;3万台のリスクから会社を守るST2で24時間リモートワイプ&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/MasakiMori6&#34; target=&#34;_blank&#34;&gt;Masaki Mori&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;nw機器-サーバ機器の設定自働化に向けたst2機能の活用案&#34;&gt;NW機器・サーバ機器の設定自働化に向けたst2機能の活用案&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(福田 晴元 / NTTソフトウエアイノベーションセンタ)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;StackStorm v2.4.0 から導入された &lt;a href=&#34;https://stackstorm.com/2017/08/24/whats-stackstorm-2-4-already/&#34;&gt;ワークフロー処理を中断＆再開する機能&lt;/a&gt; が、アプライアンスのデプロイをする際に良かったというお話をしていただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/IpstphUUgD7cHO&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/HarumotoFukuda/nwst2-99682441&#34; title=&#34;NW機器の設定自働化に向けたST2機能の活用&#34; target=&#34;_blank&#34;&gt;NW機器の設定自働化に向けたST2機能の活用&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/HarumotoFukuda&#34; target=&#34;_blank&#34;&gt;Harumoto Fukuda&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;st2-docker-ことはじめ&#34;&gt;st2-docker ことはじめ&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(杉本 周 / インターネットマルチフィード 技術部)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/StackStorm/st2-docker&#34;&gt;st2-docker&lt;/a&gt; を商用環境で利用されている立場から、st2-docker を使って HA でスケースする環境を作るにはどうするか、その場合の共有ストレージ環境をどう作るかといった、st2-docker にまつわるさまざまな運用 TIPS についてお話いただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/6WDfnslNop4DTT&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/shusugimoto1986/st2docker&#34; title=&#34;st2-docker ことはじめ&#34; target=&#34;_blank&#34;&gt;st2-docker ことはじめ&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/shusugimoto1986&#34; target=&#34;_blank&#34;&gt;Shu Sugimoto&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;stackstorm-アップデート-ロードマップ&#34;&gt;StackStorm アップデート＆ロードマップ&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;(Lindsay Hill / Extreme Networks)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;StackStorm v3.0 までのロードマップ (k8s HA のサポートや、各 GNU/Linux ディストリビューションのサポートスケジュールなど) についてお話いただきました。&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;//www.slideshare.net/slideshow/embed_code/key/bImzTPntVJlwuJ&#34; width=&#34;595&#34; height=&#34;485&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&#34; allowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;//www.slideshare.net/ExtrJP/st2-community-update-99664789&#34; title=&#34;ST2 Community Update&#34; target=&#34;_blank&#34;&gt;ST2 Community Update&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;https://www.slideshare.net/ExtrJP&#34; target=&#34;_blank&#34;&gt;エクストリーム ネットワークス / Extreme Networks Japan&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;次回もどうぞお楽しみに。&lt;/p&gt;
+</description>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Tech Night #8 / StackStorm 開催決定</title>
+            <link>https://stackstorm.jp/post/20180411_tech_night_8_shiodome/</link>
+            <pubDate>Wed, 11 Apr 2018 10:51:48 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/post/20180411_tech_night_8_shiodome/</guid>
+            <description>
+
+&lt;p&gt;ソフトバンクさま主催の &lt;a href=&#34;https://techsio.connpass.com/event/83273/&#34;&gt;Tech Night @Shiodome #8&lt;/a&gt; のテーマが「StackStorm」になりました。&lt;/p&gt;
+
+&lt;p&gt;全セッションで StackStorm の開発・運用に精通されたエキスパートの方々からのお話を聞くことができます。&lt;br /&gt;
+また今回最大の目玉として、&lt;strong&gt;StackStorm のプロダクトマネージャー &lt;a href=&#34;https://github.com/LindsayHill&#34;&gt;Lindsay Hill&lt;/a&gt; が来日・登壇されます！&lt;/strong&gt;&lt;br /&gt;
+StackStorm を使われている方はもちろん、そうでない方も是非いらしてください。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;実施詳細&#34;&gt;実施詳細&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;日程：2018/05/29(火)&lt;/li&gt;
+&lt;li&gt;場所：東京都港区東新橋1-9-2 汐留住友ビル14階 (&lt;a href=&#34;https://drive.google.com/file/d/1uScBgj5emRWVVgwUiNY8onVjBggGhYti/view&#34;&gt;地図&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;時間：19:00 開始 (18:00 ~ 開場・受付開始)&lt;/li&gt;
+&lt;li&gt;参加費：無料&lt;/li&gt;
+&lt;li&gt;詳細・参加申し込み：&lt;a href=&#34;https://techsio.connpass.com/event/83273/&#34;&gt;https://techsio.connpass.com/event/83273/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>StackStormユーザ会 各種チャネルについてのご案内</title>
+            <link>https://stackstorm.jp/post/infomation_about_st2_channel/</link>
+            <pubDate>Wed, 25 Oct 2017 00:00:00 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/post/infomation_about_st2_channel/</guid>
+            <description>
+
+&lt;p&gt;国内StackStormユーザ会の各種コミュニケーションチャネルについて、以下にまとめてご案内します。&lt;/p&gt;
+
+&lt;p&gt;ぜひ積極的な投稿・ディスカッションをお願いいたします。&lt;/p&gt;
+
+&lt;h3 id=&#34;slack上の日本語コミュニティ&#34;&gt;Slack上の日本語コミュニティ&lt;/h3&gt;
+
+&lt;p&gt;SlackのStackstorm-communityチームに登録されている方は、下記よりそのままご参加いただけます。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackstorm-community.slack.com/&#34;&gt;#community-japan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;まだstackstorm-communityチームに登録されていない方は、下記よりご登録ください。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackstorm.com/community-signup&#34;&gt;stackstorm.com/community-signup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;メーリングリスト-google-groups&#34;&gt;メーリングリスト＠Google Groups&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://groups.google.com/forum/#!forum/stackstorm-user-group—japan&#34;&gt;https://groups.google.com/forum/#!forum/stackstorm-user-group—japan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;(投稿用メールアドレス：stackstorm-user-group—japan@googlegroups.com)&lt;/p&gt;
+</description>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>第三回 StackStorm 勉強会開催！</title>
+            <link>https://stackstorm.jp/post/3rd_st2_study_group/</link>
+            <pubDate>Wed, 11 Oct 2017 17:13:14 +0900</pubDate>
+            
+            <guid>https://stackstorm.jp/post/3rd_st2_study_group/</guid>
+            <description>&lt;p&gt;日時：2017年10月11日（水）19:00〜22:00（開場:18:00）&lt;/p&gt;
+
+&lt;p&gt;会場：ソフトバンク本社 東京都港区東新橋1-9-1 (東京汐留ビルディング25F)&lt;/p&gt;
+
+&lt;p&gt;主催：ソフトバンク株式会社 Tech Night @Shiodome 実行委員会、StackStorm User Group – Japan&lt;/p&gt;
+
+&lt;p&gt;詳細：&lt;a href=&#34;http://www.brocade.com/ja/about-us/events/stackstorm.html&#34;&gt;http://www.brocade.com/ja/about-us/events/stackstorm.html&lt;/a&gt;&lt;/p&gt;
+</description>
+          </item>
+        
+      
+    
+      
+    
+  </channel>
+</rss>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</title>
+    <link>https://stackstorm.jp/post/</link>
+    <description>Recent content in Posts on 日本 StackStorm ユーザ会 / StackStorm User Group, Japan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Dec 2019 11:51:42 +0900</lastBuildDate>
+    
+	<atom:link href="https://stackstorm.jp/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>StackStorm Meetup JP #8(@MF) レポート</title>
+      <link>https://stackstorm.jp/post/20191226_meetup8/</link>
+      <pubDate>Sat, 28 Dec 2019 11:51:42 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20191226_meetup8/</guid>
+      <description>2019/12/26(木) に インターネットマルチフィード株式会社 さまのご協力のもと、StackStorm Meetup JP#8 が実施できました。会場を提供くださいましたインターネットマルチヂードさま、運営にご協力くださいましたインターネットマルチフィード技術部の皆さま、そしてご来場くださったユーザの方々に感謝申し上げます。
+　半年ぶりの開催で、イベントページの告知も開催 10 日前という状況にも関わらず、多数のユーザが集まり大変驚きました。
+参加されたユーザの多くが StackStorm を最近使い始めたという方々で「Infrastructure as Code や運用自動化を実現するための手法として興味を持って来た」といったお話をされていました。また以前から StackStorm を使っているユーザの参加者同士で、開発や運用の困りどころについて相談し、その場で解決方法を教え合うといった事も行われ、有意義なイベントになったのではないかと思います。
+　今回は StackStorm ユーザ会では初めて、もくもく会 （参加者が登壇者の発表内容を聞くという形式ではなく、参加者が各々の StackStorm に関する課題を持ち込み、もくもくと作業し適宜周りのユーザに尋ねたり、教えあったりする） 形式で Meetup イベントを開催しました。参加したユーザは「Orquesta を初めてさわってみる」や「Python Runner のアクションのテストを書く」などといった課題について取り組み、適宜ユーザ同士での質問・回答が行われ、また回答に対する補足を別のユーザがするといった光景も見られました。
+　また今回のイベントでは、初めて StackStorm を触る人向けのハンズオンも実施しましたが、時間の関係で十分な内容ではなかった為、ここで少しだけ補足させてください。
+　JPNIC が毎年開催されている Internet Week において以前、StackStorm 初心者向けのハンズオン というセッションを実施致しました。当日使用した資料は GitHub から閲覧 でき、またハンズオン資料に記載されている実行環境を構築する方法も 同リポジトリの README にまとめてありますので、ぜひご活用ください。
+　またユーザ会からの連絡や、ユーザ会に相談したいこと、他のユーザに聞きたいことなどございましたら Slack にログイン いただき、#community-japan チャンネルでご連絡ください。
+　次回の Meetup は 2020/02/10(月) に実施を予定しておりますので、ぜひご参加ください！
+開催場所などの詳細は、compass の StackStorm ユーザ会のグループ でご連絡致します。</description>
+    </item>
+    
+    <item>
+      <title>StackStorm Meetup JP #7(@WeWork銀座) レポート</title>
+      <link>https://stackstorm.jp/post/20190627_meetup_jp_7/</link>
+      <pubDate>Wed, 03 Jul 2019 11:51:42 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20190627_meetup_jp_7/</guid>
+      <description>ソフトバンクさまのご協力により StackStorm Meetup JP #7 を WeWork GINZA SIX にて開催致しました。ご来場いただいた皆さま、ご登壇くださった StackStormer の方々、そしてご支援・ご協力くださいました Extreme Networks K.K. の佐野さん、ソフトバンク株式会社の小島さんをはじめ、関係者の皆さまに感謝申し上げます。
+　以下では、当日ご登壇いただいた皆さまの発表を資料と共にご紹介致します。
+ST2 コミュニティアップデート (Extreme Networks, Inc. / Lindsay Hill)
+　先月の StackStorm 公式ブログのエントリ- Dmitri says “good bye” にて公表された、StackStorm を Linux Foundation に移管する件について、何がどのように変わるのかについて説明してくれています。この他に各 GNU/Linux ディストリビューションのサポートと、StackStorm のロードマップについてお話しいただきました。
+Lindsay の発表は諸事情により動画での発表だったため YouTube にアップロードされていますので是非ご覧ください。
+ StackStormを使ったサポート業務の自動化の紹介 (日商エレクトロニクス株式会社 / 管野 智祥)
+　ご登壇いただいた菅野さんは以前より、New Relic や StackStorm などを活用した SRE に取り組まれており、この日はカスタマーサポート業務において StackStorm をどのように活用されているかついてお話しいただきました。
+(資料がアップロードされ次第、更新致します)
+StackStormを1年間データ基盤で使ってみてぶつかったトラブルとその解決策の共有 (株式会社リクルートテクノロジーズ / 佐伯 嘉康)</description>
+    </item>
+    
+    <item>
+      <title>StackStorm Meetup JP #5 レポート</title>
+      <link>https://stackstorm.jp/post/20190424_meetup_jp_5/</link>
+      <pubDate>Tue, 07 May 2019 11:51:42 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20190424_meetup_jp_5/</guid>
+      <description>DMM.com にて StackStorm Meetup JP #5 を開催しました。多数の StackStorm 実務者にご参加頂き、大変ありがとうございました。
+当日は後述の登壇者による発表のほか、StackStorm を運用・活用されているユーザ同士がお互いに、どのような環境で、どのように StackStorm を使っているかといったお話や、気になる StackStorm のトピック、ナレッジを積極的に共有し合うなど、非常に充実した内容でした。
+以下、当日ご登壇いただいた方々の発表をご紹介します。
+詳解 StackStorm ~ #1 Pack のテストの書き方 (大山 裕泰 / 合同会社DMM.com ITインフラ本部)
+StackStorm Exchange の pack の機能改修・バグ修正を行った際、変更を Exchange のリポジトリ に反映させることはコミュニティ・変更者相互にメリットがあります（コミュニティ側は pack の機能・品質が向上し、変更者側は変更したコードのメンテナンスをコミュニティに任せられるため）。
+ここでは Exchange pack の変更 PR を作成した際に要求される、テストの概要、実行方法そして書き方について解説しています。
+ 
+st2 Workflowの設計ポリシー (杉本 周 / インターネットマルチフィード株式会社 技術部)
+日本最大級の商用 IX サービス (JPNAP) の運用を StackStorm で効率化されてきた経験を基に、StackStorm で業務手順をコード化する際に頭を悩ませる様々なトピック（pack 管理の粒度、設定・インベントリ情報の管理、Workflow の記述方法）について、StackStorm の機能を最大限活用したガイドラインを紹介していただきました。
+複数のシステムに跨る作業手順を StackStorm の Workflow で記述する際に、とても参考になるエッセンスが詰まっています。
+  StackStorm Workflowの設計  from Shu Sugimoto</description>
+    </item>
+    
+    <item>
+      <title>「StackStormを活用した運用自動化の実践」セミナー開催のお知らせ</title>
+      <link>https://stackstorm.jp/post/20190319_inform_an_event/</link>
+      <pubDate>Thu, 14 Mar 2019 10:45:44 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20190319_inform_an_event/</guid>
+      <description> 2019/03/19 飯田橋 IIJ-II にて、インターネットマルチフィード株式会社の杉本周氏による「StackStormを活用した運用自動化の実践」セミナー が開催されます。
+講演者の杉本氏は、黎明期から StackStorm を活用した運用効率化に取り組んでおり、st2-docker など活用した運用 など新しいトレンドを活用した運用に長けた、国内有数の StackStorm のエキスパートとして知られています。
+今回のセミナーでは、日本最大級の商用 IX サービス (JPNAP) の運用において、比較的最近リリースされた StackStorm の新機能 &amp;ldquo;Inquiries&amp;rdquo; (従来予め規定された通りの処理を行うワークフローの処理を、状況に応じて動的に処理を変更させられる機能) などを活用した運用自動化の実例をご紹介いただきます。
+実施詳細  日時：2019年3月19日18:00 (17:45 開場予定、19:30頃終了予定) 場所：東京都千代田区富士見2-10-2 (株式会社インターネットイニシアティブ 13階 Opera2) 参加費：無料 詳細・参加申し込み：https://iijlab-seminars.connpass.com/event/124111/  </description>
+    </item>
+    
+    <item>
+      <title>第四回 StackStorm 勉強会セッション動画公開</title>
+      <link>https://stackstorm.jp/post/20180619_st2conference_archive/</link>
+      <pubDate>Tue, 19 Jun 2018 10:44:23 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20180619_st2conference_archive/</guid>
+      <description>先月ご紹介した 第四回 StackStorm 勉強会 のセッション動画が公開されました。
+
+(出典：Extreme Networks Japan チャンネル - YouTube)
+各社が何のために StackStorm を利用し、どのように運用されているかのエッセンスが詰まっており、
+運用の自動化を検討・実践されている方にとって価値ある内容だと思いますので、ぜひご覧ください！</description>
+    </item>
+    
+    <item>
+      <title>第四回 StackStorm 勉強会レポート</title>
+      <link>https://stackstorm.jp/post/20180530_st2conference_report/</link>
+      <pubDate>Fri, 01 Jun 2018 10:30:18 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20180530_st2conference_report/</guid>
+      <description>ソフトバンクさま主催の TechNight @Shiodome にて、第四回 StackStorm 勉強会を開催していただきました。
+多数のご来場いただきありがとうございました。
+また大変興味深い発表をしてくださった発表者の皆さま、会場をご提供くださいましたソフトバンクさま、差し入れをくださいました Extreme Networks さまに改めて感謝申し上げます。
+以下、それぞれの発表者（敬称略）の資料とサマリになります。各セッションの内容については @w4yh さんのレポート記事 が詳しいので併せてご覧ください。
+明日からできる、st2のActionの作り方 (萬治 渉 / NTTテクノクロス株式会社 IoTイノベーション事業部)
+Action の実装方法について詳しく解説いただきました。詳しくは資料をご参照ください。
+  データの民主化のためにStackStormを活用した事例 (佐伯 嘉康 / リクルートテクノロジーズ)
+社内の様々な部署で蓄積されたデータを共有の場所に蓄積し、共通の方法で自由に取得できるようにするプラットフォームを作ったという事例についてご紹介いただきました。
+  データの民主化のために StackStorm を活用した事例  from Yoshiyasu SAEKI 
+3万台のリスクから会社を守る。st2で24時間リモートワイプ (森 正樹 / ソフトバンク株式会社 IT本部 ネットワーク統括部 ネットワーク部 ネットワーク運用課)
+社内の情報システム部門が通常行っている PC の紛失に伴う VPN 証明書の失効処理を IFTTT 化させることで、それまで平日/日中対応だった紛失対応を 24-365 で自動対応化でき、運用コストが低減しセキュリティレベルが向上したというお話をしていただきました。
+  3万台のリスクから会社を守るST2で24時間リモートワイプ  from Masaki Mori 
+NW機器・サーバ機器の設定自働化に向けたst2機能の活用案 (福田 晴元 / NTTソフトウエアイノベーションセンタ)</description>
+    </item>
+    
+    <item>
+      <title>Tech Night #8 / StackStorm 開催決定</title>
+      <link>https://stackstorm.jp/post/20180411_tech_night_8_shiodome/</link>
+      <pubDate>Wed, 11 Apr 2018 10:51:48 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20180411_tech_night_8_shiodome/</guid>
+      <description> ソフトバンクさま主催の Tech Night @Shiodome #8 のテーマが「StackStorm」になりました。
+全セッションで StackStorm の開発・運用に精通されたエキスパートの方々からのお話を聞くことができます。
+また今回最大の目玉として、StackStorm のプロダクトマネージャー Lindsay Hill が来日・登壇されます！
+StackStorm を使われている方はもちろん、そうでない方も是非いらしてください。
+実施詳細  日程：2018/05/29(火) 場所：東京都港区東新橋1-9-2 汐留住友ビル14階 (地図) 時間：19:00 開始 (18:00 ~ 開場・受付開始) 参加費：無料 詳細・参加申し込み：https://techsio.connpass.com/event/83273/  </description>
+    </item>
+    
+    <item>
+      <title>StackStormユーザ会 各種チャネルについてのご案内</title>
+      <link>https://stackstorm.jp/post/infomation_about_st2_channel/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/infomation_about_st2_channel/</guid>
+      <description>国内StackStormユーザ会の各種コミュニケーションチャネルについて、以下にまとめてご案内します。
+ぜひ積極的な投稿・ディスカッションをお願いいたします。
+Slack上の日本語コミュニティ SlackのStackstorm-communityチームに登録されている方は、下記よりそのままご参加いただけます。
+ #community-japan  まだstackstorm-communityチームに登録されていない方は、下記よりご登録ください。
+ stackstorm.com/community-signup  メーリングリスト＠Google Groups https://groups.google.com/forum/#!forum/stackstorm-user-group—japan
+(投稿用メールアドレス：stackstorm-user-group—japan@googlegroups.com)</description>
+    </item>
+    
+    <item>
+      <title>第三回 StackStorm 勉強会開催！</title>
+      <link>https://stackstorm.jp/post/3rd_st2_study_group/</link>
+      <pubDate>Wed, 11 Oct 2017 17:13:14 +0900</pubDate>
+      
+      <guid>https://stackstorm.jp/post/3rd_st2_study_group/</guid>
+      <description>日時：2017年10月11日（水）19:00〜22:00（開場:18:00）
+会場：ソフトバンク本社 東京都港区東新橋1-9-1 (東京汐留ビルディング25F)
+主催：ソフトバンク株式会社 Tech Night @Shiodome 実行委員会、StackStorm User Group – Japan
+詳細：http://www.brocade.com/ja/about-us/events/stackstorm.html</description>
+    </item>
+    
+    <item>
+      <title>2019-05-15 ユーザ会 MTG 議事録</title>
+      <link>https://stackstorm.jp/post/20190515_proceedings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stackstorm.jp/post/20190515_proceedings/</guid>
+      <description>  日時：2019/05/15 18:30 ~ 19:00 場所：インターネットマルチフィード株式会社 出席者 (敬称略)  杉本 周 大山 裕泰 (記)   議題1: StackStorm Meetup JP #6 の日程  提起・発案者：大山 裕泰
+ 決定事項
+ 5&amp;frasl;29 で日程調整を行う 発表者：  大山 杉本 or 有志 (#community-japan で呼びかけ)   宿題
+ compass ページの作成 (大山) ソフトバンクの会場調整に失敗した場合、IM の会議室で調整 (杉本)   議題2: StackStorm Meetup JP #8 以降の Meetup の実施形態について  提起・発案者：杉本 周
+ 決定事項
+ 月一で開催する  検討事項
+ ハッカソンの形態を取り入れ、発表者の負担を軽減する方法を取り入れる   </description>
+    </item>
+    
+  </channel>
+</rss>
